@@ -7,23 +7,6 @@
         <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
         <item name="colorAccent">@color/colorAccent</item>
     </style>
-    <string-array name="film">
-        <item>3</item>
-        <item>sample1</item>
-        <item>sampl2</item>
-        <item>check1</item>
-        <item>anyval</item>
-        <item>gosling</item>
-        <item>macc</item>
-    </string-array>
-    <string-array name="director">
-        <item>993</item>
-        <item>5sample1</item>
-        <item>6sampl2</item>
-        <item>7check1</item>
-        <item>5anyval</item>
-        <item>8gosling</item>
-        <item>9macc</item>
-    </string-array>
+
 
 </resources>
